@@ -466,9 +466,7 @@ To prevent vulnerabilities in MCP-enabled systems, implement the following mitig
 
 ## 7. Conclusion and Resources
 
-This guide, based on the [MCP Safety Audit paper](https://arxiv.org/pdf/2504.03767), enables testers to replicate MCP vulnerabilities and secure their systems using *McpSafetyScanner*. By testing in a VM and applying specific mitigations and secure coding practices, you can address risks like MCE, RAC, CT, and RADE attacks. Contribute to MCP security by sharing findings responsibly.
+This guide, based on the [MCP Safety Audit paper](https://arxiv.org/pdf/2504.03767), enables testers to replicate MCP vulnerabilities and secure their systems using *McpSafetyScanner*. By testing in a VM and applying specific mitigations and secure coding practices, you can address risks like MCE, RAC, CT, and RADE attacks.
 
 **Resources**:
-- [McpSafetyScanner GitHub](https://github.com/johnhalloran321/mcpSafetyScanner){target="_blank"}
-- [MCP Documentation](https://github.com/anthropic/model-context-protocol){target="_blank"}
-- [Slack Security Best Practices](https://slack.com/security){target="_blank"}
+- [McpSafetyScanner GitHub](https://github.com/johnhalloran321/mcpSafetyScanner)
