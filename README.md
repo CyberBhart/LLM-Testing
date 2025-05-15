@@ -1,4 +1,4 @@
-# 🤖 LLM Security Testing Guides
+# 🤖 LLM Testing Guides
 
 This repository contains a growing collection of practical, hands-on testing guides for identifying and understanding vulnerabilities in Large Language Models (LLMs), AI systems, and agent frameworks.
 
