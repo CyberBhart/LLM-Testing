@@ -1,34 +1,32 @@
-# 🧪 Security Testing Guides
+# 🤖 LLM Security Testing Guides
 
-This is a growing collection of **practical, hands-on testing guides** for anyone getting started in:
+This repository contains a growing collection of practical, hands-on testing guides for identifying and understanding vulnerabilities in Large Language Models (LLMs), AI systems, and agent frameworks.
 
-- Cybersecurity
-- AI and LLM security testing
-- Bug bounty hunting
-- OWASP-based application testing
+Whether you're a security researcher, penetration tester, or exploring the intersection of cybersecurity and AI, these guides cover areas such as:
 
-These guides are based on real-world testing practices, designed to help you build technical skills through examples, attack simulations, and walkthroughs.
-
----
-
-## 📘 Current Focus
-
-- MCP Security Testing *(early AI testing notes)*
-- More guides coming soon as the repository evolves
+- 🔓 Prompt Injection
+- 🛡️ Output Manipulation & Jailbreak Bypasses
+- 📦 API Fuzzing for LLM Services
+- 🔄 Context Poisoning & Trust Exploits
+- ⚙️ Tool Integration Risks in Agent Frameworks
+- 🧠 MCP (Model Context Protocol) Testing
 
 ---
 
-## 🚧 Work in Progress
+## 📚 Contents
 
-This repository will be continuously updated with new:
-- Vulnerability test cases
-- Threat modeling examples
-- Exploit/mitigation walkthroughs
-- Tool-based testing setups
+> This list will grow as projects and test cases evolve.
+
+- [MCP Security Testing Guide](./MCP-Security-Testing-Guide.md) – *Covers context-level vulnerabilities, tool shadowing, input tampering, and threat modeling in LLM-powered environments.*
 
 ---
 
-## ⭐ Stay Tuned
+## 🧠 Why This Repo?
 
-Star the repo to follow updates as more content is added.  
-Feedback, suggestions, and pull requests are always welcome.
+LLMs are redefining software interfaces and expanding the attack surface. This repository helps document real-world, reproducible test cases to support AI security research and practical testing.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See [`LICENSE`](./LICENSE) for details.
